@@ -1,0 +1,10 @@
+.container{
+    border: 2px solid red;
+    height: 600px;
+
+}
+.tarea{
+    border: 2px solid red;
+    width: 300px;
+    border-radius: 8px;
+}
